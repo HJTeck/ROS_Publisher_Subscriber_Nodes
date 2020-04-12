@@ -1,0 +1,6 @@
+This a pair of ROS Publiser and Subscriber nodes.
+
+-The publisher(talker.py) publishes username, counter and time in Unix time format to a topic.
+-The subsciber(listener.py) subscribes to the topic and display the messages on the terminal.
+
+The results are as shown in the attached image file.
